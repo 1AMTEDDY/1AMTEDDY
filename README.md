@@ -1,6 +1,6 @@
-- 👋 Hi, I’m NOBLESSE
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning golang and other concepts of being a Devops engineer
+- 👋 Hi, 1AMTEDDY
+- 👀 I’m Working as a Devops Engineer
+- 🌱 I’m currently learning Python and other concepts
 - 💞️ I’m looking to collaborate on learning new things
 - 📫 How to reach me email: petersonwoko@gmail.com
 
