@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-petersonwoko-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-nwoko)](https://www.linkedin.com/in/peterson-nwoko-0291521b5) [![Twitter Badge](https://img.shields.io/badge/-@TheNovember_man-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheNovember_man)](https://twitter.com/TheNovember_man)
 
-I'm a Devops Engineer who currently works at [Mag IT Consulting]. I'm passionate about sharing knowledge, documentation, DevOps engineering, and others. Build useful [open-source projects](https://github.com/1AMTEDDY), speak at some meetups/conferences, build technical communities...
+I'm a Devops Engineer who currently works at [The F* Word]. I'm passionate about sharing knowledge, documentation, DevOps engineering, and others. Build useful [open-source projects](https://github.com/1AMTEDDY), speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
