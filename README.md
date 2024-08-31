@@ -1,7 +1,7 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-petersonwoko-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-nwoko)](https://www.linkedin.com/in/peterson-nwoko-0291521b5) 
-[![Twitter Badge](https://img.shields.io/badge/-@TheNovember_man-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheNovember_man)](https://twitter.com/TheNovember_man)
+[![Linkedin](https://img.shields.io/badge/-petersonwoko-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-nwoko)](https://www.linkedin.com/in/peterson-nwoko-0291521b5) 
+[![Twitter](https://img.shields.io/badge/-@TheNovember_man-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheNovember_man)](https://twitter.com/TheNovember_man)
 [<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="1AMTEDDY" />](https://github.com/1AMTEDDY/1AMTEDDY)
 
 
