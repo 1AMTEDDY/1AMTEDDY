@@ -15,7 +15,7 @@ I'm a Devops Engineer who currently works at [The F* Word]. I'm passionate about
 - 📫 You can contact me by emailing petersonwoko@gmail.com.
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=1AMTEDDY&show_icons=true&include_all_commits=true&hide_border=true" alt="1AMTEDDY's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AMTEDDY&langs_count=8&layout=compact&hide_border=true" alt="1AMTEDDY's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=1AMTEDDY&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="1AMTEDDY's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AMTEDDY&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="1AMTEDDY's GitHub stats" /> |
 | ------------- | ------------- |
 
 ### Skills
