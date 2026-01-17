@@ -5,7 +5,7 @@
 [<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="1AMTEDDY" />](https://github.com/1AMTEDDY/1AMTEDDY)
 
 
-I'm a Devops Engineer who currently works at [The F* Word]. I'm passionate about sharing knowledge, documentation, DevOps engineering, and others. Build useful open-source projects, speak at some meetups/conferences, build technical communities...
+I'm a Devops Engineer who currently works at [Wolters Kluwer]. I'm passionate about sharing knowledge, documentation, DevOps engineering, and others. Build useful open-source projects, speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
